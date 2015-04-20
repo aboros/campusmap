@@ -1,0 +1,61 @@
+$color-base: #3c6d8b;
+$color-bright: adjust-lightness($color-base, 25);
+$color-dark: adjust-lightness($color-base, -25);
+
+$color-clickable: #f60;
+$color-clickable-bright: adjust-lightness($color-clickable, 25);
+$color-clickable-dark: adjust-lightness($color-clickable, -25);
+
+$color-hover: #f06;
+$color-hover-bright: adjust-lightness($color-hover, 25);
+$color-hover-dark: adjust-lightness($color-hover, -25);
+
+#floorplan {
+  // Basic colors used to extrude floorplan.
+  .bright {
+    fill: $color-bright;
+  }
+	.medium {
+    fill: $color-base;
+  }
+  .dark {
+    fill: $color-dark;
+  }
+  .mapplic-clickable > * {
+    opacity: 1;
+    .bright {
+      fill: $color-clickable-bright;
+    }
+    .medium {
+      fill: $color-clickable;
+    }
+    .dark {
+      fill: $color-clickable-dark;
+    }
+  }
+  .mapplic-clickable {
+    &:hover {
+      .bright {
+        fill: $color-hover-bright;
+      }
+      .medium {
+        fill: $color-hover;
+      }
+      .dark {
+        fill: $color-hover-dark;
+      }
+    }
+  }
+  .mapplic-active > * {
+    opacity: 1;
+    .bright {
+      fill: $color-hover-bright;
+    }
+    .medium {
+      fill: $color-hover;
+    }
+    .dark {
+      fill: $color-hover-dark;
+    }
+  }
+}

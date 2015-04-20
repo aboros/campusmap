@@ -1,0 +1,79 @@
+{
+  "mapwidth": "2000",
+  "mapheight": "1600",
+  "categories": [
+    {
+      "id": "academic",
+      "title": "Academic offices",
+      "show": "false"
+    },
+    {
+      "id": "administrative",
+      "title": "Administrative units",
+      "show": "false"
+    },
+    {
+      "id": "service",
+      "title": "Services",
+      "show": "false"
+    }
+  ],
+  "levels": [
+    {
+      "id": "okt6-01",
+      "title": "Oktober 6. u. - 1st floor",
+      "map": "maps/okt6-01.svg", 
+      "show": "true",
+      "locations": [
+        {
+          "id": "room-42",
+          "title": "Some office",
+          "description": "Landmarks can have description.",
+          "about": "Different about text in sidebar.",
+          "category": "academic",
+          "x": "0.8250",
+          "y": "0.3640",
+          "zoom": "2"
+        },
+        {
+          "id": "room-101",
+          "title": "101",
+          "description": "Not the room you are looking for.",
+          "about": "You never forget this visit.",
+          "category": "service",
+          "x": "0.2660",
+          "y": "0.5540",
+          "zoom": "2"
+        }
+      ]
+    },
+    {
+      "id": "okt6-02",
+      "title": "Oktober 6. u. - 2nd floor",
+      "map": "maps/okt6-02.svg", 
+      "show": "true",
+      "locations": [
+        {
+          "id": "room-242",
+          "title": "Some office on second floor",
+          "description": "Landmarks can have description.",
+          "about": "Different about text in sidebar.",
+          "category": "academic",
+          "x": "0.8250",
+          "y": "0.3640",
+          "zoom": "2"
+        },
+        {
+          "id": "room-201",
+          "title": "Another room 101 on second floor.",
+          "description": "Not the room you are looking for.",
+          "about": "You never forget this visit.",
+          "category": "service",
+          "x": "0.2660",
+          "y": "0.5540",
+          "zoom": "2"
+        }
+      ]
+    }
+  ]
+}

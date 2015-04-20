@@ -1,0 +1,66 @@
+@import "compass/reset";
+@import "compass/typography/vertical_rhythm";
+@import "compass/css3";
+
+body {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+
+  header {
+    @include background(url('../images/color-ribbon.png') 0 bottom repeat-x, linear-gradient(left, #231F20, #565759 22%, #231F20 57%, #818285));
+    height: 90px;
+    a:hover {
+      border-bottom: none;
+    }
+    #logo {
+      float: left;
+      margin: 1em;
+    }
+    h1 {
+      text-transform: uppercase;
+      font-weight: 800;
+      font-size: 32px;
+      color: white;
+      padding-top: 25px;
+    }
+  }
+  #content {
+    clear: both;
+  }
+  #floorplan {
+    .mapplic-sidebar {
+      background: #dedede none;
+    }
+    h4 {
+      font-weight: 600;
+    }
+    .mapplic-list-category { 
+      ol {
+        border-bottom: none !important;
+      }
+      > a {
+        text-transform: uppercase;
+        font-weight: 600;
+        background: #666 none;
+        &:hover {
+          background: #444 none;
+        }
+      }
+    }
+    .mapplic-list-location { 
+      border-bottom: none;
+      > a {
+        background: transparent none;
+        padding: 4px;
+        &:hover {
+          background: #fff none;
+          padding: 4px;
+        }
+      }
+    }
+    .mapplic-search-form {
+      background: #444 none;
+      border-color: #444;
+    }
+  }
+}

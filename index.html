@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- Meta -->
+		<meta charset="utf-8">
+		<title>CEU Campus Map</title>
+
+		<!-- Viewport for Responsivity -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+		<meta name="description" content="Map of Central European University, Budapest, Hungary.">
+		<!-- Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,800' rel='stylesheet' type='text/css'>
+		<!-- Stylesheets -->
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
+		<link rel="stylesheet" type="text/css" href="css/map.css">
+		<link rel="stylesheet" type="text/css" href="mapplic/mapplic.css">
+		<!-- Internet Explorer -->
+		<!--[if lt IE 9]>
+			<link rel="stylesheet" type="text/css" href="mapplic/mapplic-ie.css">
+			<script type="text/javascript" src="js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+		<header id="header">
+			<img id="logo" src="images/logo.png" />
+			<h1 id="site-name">Campus Map</h1>
+		</header>
+		<section id="content">
+			<div id="floorplan"></div>
+		</div>
+		<!-- Scripts -->
+		<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+		<script type="text/javascript" src="js/hammer.min.js"></script>
+		<script type="text/javascript" src="js/jquery.easing.js"></script>
+		<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
+		<script type="text/javascript" src="js/smoothscroll.js"></script>
+		<script type="text/javascript" src="mapplic/mapplic.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$('#floorplan').mapplic({
+					developer: true,
+					source: 'locations.json',
+					height: 640,
+					locations: false,
+					hovertip: true,
+					minimap: false,
+					mapfill: false
+				});
+			});
+		</script>
+	</body>
+</html>
