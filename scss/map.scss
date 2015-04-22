@@ -1,61 +1,35 @@
+@import "mixins";
+
 $color-base: #3c6d8b;
-$color-bright: adjust-lightness($color-base, 25);
-$color-dark: adjust-lightness($color-base, -25);
-
 $color-clickable: #f60;
-$color-clickable-bright: adjust-lightness($color-clickable, 25);
-$color-clickable-dark: adjust-lightness($color-clickable, -25);
-
 $color-hover: #f06;
-$color-hover-bright: adjust-lightness($color-hover, 25);
-$color-hover-dark: adjust-lightness($color-hover, -25);
+$color-active: #37c871;
+
+$color-academic: #d35f5f;
 
 #floorplan {
+  polygon {
+    opacity: 0.8;
+  }
   // Basic colors used to extrude floorplan.
-  .bright {
-    fill: $color-bright;
+  @include paintroom($color-base);
+  .academic {
+    @include paintroom($color-academic);
   }
-	.medium {
-    fill: $color-base;
-  }
-  .dark {
-    fill: $color-dark;
-  }
-  .mapplic-clickable > * {
-    opacity: 1;
-    .bright {
-      fill: $color-clickable-bright;
+  .mapplic-clickable {
+    > *, 
+    polygon {
+      opacity: 1;
     }
-    .medium {
-      fill: $color-clickable;
-    }
-    .dark {
-      fill: $color-clickable-dark;
-    }
+    @include paintroom($color-clickable);
   }
   .mapplic-clickable {
     &:hover {
-      .bright {
-        fill: $color-hover-bright;
-      }
-      .medium {
-        fill: $color-hover;
-      }
-      .dark {
-        fill: $color-hover-dark;
-      }
+      @include paintroom($color-hover);
     }
   }
-  .mapplic-active > * {
+  .mapplic-active {
     opacity: 1;
-    .bright {
-      fill: $color-hover-bright;
-    }
-    .medium {
-      fill: $color-hover;
-    }
-    .dark {
-      fill: $color-hover-dark;
-    }
+    @include paintroom($color-active);
   }
 }

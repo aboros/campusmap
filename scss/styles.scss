@@ -1,10 +1,19 @@
 @import "compass/reset";
 @import "compass/typography/vertical_rhythm";
 @import "compass/css3";
+@import "mixins";
 
 body {
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-weight: 400;
+
+  strong {
+    display: inline-block;
+    font-weight: 600;
+    background: #bbb;
+    color: #fff;
+    padding: 0 0.2em;
+  }
 
   header {
     @include background(url('../images/color-ribbon.png') 0 bottom repeat-x, linear-gradient(left, #231F20, #565759 22%, #231F20 57%, #818285));
@@ -61,6 +70,16 @@ body {
     .mapplic-search-form {
       background: #444 none;
       border-color: #444;
+    }
+    .mapplic-tooltip-description, 
+    .mapplic-list-location {
+      img {
+        float: left;
+        margin: 0.3em 1em 1em 0;
+      }
+    }
+    .mapplic-list-container li {
+      clear: both;
     }
   }
 }

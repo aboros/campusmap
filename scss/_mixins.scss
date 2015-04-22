@@ -1,0 +1,13 @@
+@mixin paintroom($color) {
+  $color-bright: adjust-lightness($color, 25);
+  $color-dark: adjust-lightness($color, -25);
+  .bright {
+    fill: $color-bright;
+  }
+  .medium {
+    fill: $color;
+  }
+  .dark {
+    fill: $color-dark;
+  }
+}
