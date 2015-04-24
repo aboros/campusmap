@@ -9,7 +9,7 @@ $color-academic: #d35f5f;
 
 #floorplan {
   polygon {
-    opacity: 0.8;
+    opacity: 1;
   }
   // Basic colors used to extrude floorplan.
   @include paintroom($color-base);
