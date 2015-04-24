@@ -16,6 +16,11 @@
       "id": "service",
       "title": "Services",
       "show": "false"
+    },
+    {
+      "id": "waypoint",
+      "title": "Waypoints",
+      "show": "false"
     }
   ],
   "levels": [
@@ -82,6 +87,16 @@
           "category": "administrative",
           "x": "0.4030",
           "y": "0.3225",
+          "zoom": "2"
+        },
+        {
+          "id": "qr-okt6-42",
+          "title": "Waypoint 42",
+          "description": "",
+          "about": "Waypoint 42 - in front of the elevator.",
+          "category": "waypoint",
+          "x": "0.5455",
+          "y": "0.3300",
           "zoom": "2"
         }
       ]

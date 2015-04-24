@@ -3,9 +3,11 @@
 $color-base: #3c6d8b;
 $color-clickable: #f60;
 $color-hover: #f06;
-$color-active: #37c871;
+$color-active: adjust-lightness($color-clickable, -15);
 
 $color-academic: #d35f5f;
+
+$color-waypoint: #37c871;
 
 #floorplan {
   polygon {
@@ -31,5 +33,10 @@ $color-academic: #d35f5f;
   .mapplic-active {
     opacity: 1;
     @include paintroom($color-active);
+  }
+  #landmarks-waypoints {
+    .mapplic-clickable > * {
+      fill: $color-waypoint;
+    }
   }
 }
