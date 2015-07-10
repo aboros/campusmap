@@ -3,18 +3,43 @@
     "mapheight": "1600", 
     "categories": [
         {
-            "id": "academic", 
+            "id": "academics", 
             "title": "Academic offices", 
             "show": "false"
         }, 
         {
-            "id": "administrative", 
-            "title": "Administrative units", 
+            "id": "programs", 
+            "title": "Acadeimic Programs & Support", 
             "show": "false"
         }, 
         {
-            "id": "service", 
+            "id": "research", 
+            "title": "Research & Policy", 
+            "show": "false"
+        }, 
+        {
+            "id": "administrative", 
+            "title": "Administrative & Outreach", 
+            "show": "false"
+        }, 
+        {
+            "id": "services", 
             "title": "Services", 
+            "show": "false"
+        }, 
+        {
+            "id": "restrooms", 
+            "title": "Restrooms", 
+            "show": "false"
+        }, 
+        {
+            "id": "elevators", 
+            "title": "Elevators", 
+            "show": "false"
+        }, 
+        {
+            "id": "stairs", 
+            "title": "Stairs", 
             "show": "false"
         }
     ], 
@@ -48,7 +73,7 @@
                 {
                     "id": "O7-1-102", 
                     "title": "102", 
-                    "category": "Classroom", 
+                    "category": "programs", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -58,7 +83,7 @@
                 {
                     "id": "O7-1-103", 
                     "title": "103", 
-                    "category": "Seminar room", 
+                    "category": "programs", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -68,7 +93,7 @@
                 {
                     "id": "O7-1-104", 
                     "title": "104", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -78,7 +103,7 @@
                 {
                     "id": "O7-1-105", 
                     "title": "105", 
-                    "category": "Library", 
+                    "category": "programs", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -88,7 +113,7 @@
                 {
                     "id": "O7-1-106", 
                     "title": "106", 
-                    "category": "Research & Policy", 
+                    "category": "research", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -98,7 +123,7 @@
                 {
                     "id": "O7-1-106", 
                     "title": "106", 
-                    "category": "Research & Policy", 
+                    "category": "research", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -108,7 +133,7 @@
                 {
                     "id": "O7-1-106", 
                     "title": "106", 
-                    "category": "Research & Policy", 
+                    "category": "research", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -118,7 +143,7 @@
                 {
                     "id": "O7-1-106", 
                     "title": "106", 
-                    "category": "Research & Policy", 
+                    "category": "research", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -128,7 +153,7 @@
                 {
                     "id": "O7-1-107", 
                     "title": "107", 
-                    "category": "Research & Policy", 
+                    "category": "research", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -138,7 +163,7 @@
                 {
                     "id": "O7-1-107", 
                     "title": "107", 
-                    "category": "Research & Policy", 
+                    "category": "research", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -148,7 +173,7 @@
                 {
                     "id": "O7-1-107", 
                     "title": "107", 
-                    "category": "Research & Policy", 
+                    "category": "research", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -158,7 +183,7 @@
                 {
                     "id": "O7-1-108", 
                     "title": "108", 
-                    "category": "Research & Policy", 
+                    "category": "research", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -168,7 +193,7 @@
                 {
                     "id": "O7-1-109", 
                     "title": "109", 
-                    "category": "Research & Policy", 
+                    "category": "research", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -178,7 +203,7 @@
                 {
                     "id": "O7-1-110", 
                     "title": "110", 
-                    "category": "Research & Policy", 
+                    "category": "research", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -188,7 +213,7 @@
                 {
                     "id": "O7-1-111", 
                     "title": "111", 
-                    "category": "Research & Policy", 
+                    "category": "research", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -198,7 +223,7 @@
                 {
                     "id": "O7-1-112", 
                     "title": "112", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -208,7 +233,7 @@
                 {
                     "id": "O7-1-112", 
                     "title": "112", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -218,7 +243,7 @@
                 {
                     "id": "O7-1-112", 
                     "title": "112", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -228,7 +253,7 @@
                 {
                     "id": "O7-1-112", 
                     "title": "112", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -238,7 +263,7 @@
                 {
                     "id": "O7-1-112", 
                     "title": "112", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -248,7 +273,7 @@
                 {
                     "id": "O7-1-113", 
                     "title": "113", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -258,7 +283,7 @@
                 {
                     "id": "O7-1-114", 
                     "title": "114", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -268,7 +293,7 @@
                 {
                     "id": "O7-1-115", 
                     "title": "115", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -278,7 +303,7 @@
                 {
                     "id": "O7-1-116", 
                     "title": "116", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -288,7 +313,7 @@
                 {
                     "id": "O7-1-116", 
                     "title": "116", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -298,7 +323,7 @@
                 {
                     "id": "O7-1-116", 
                     "title": "116", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -308,7 +333,7 @@
                 {
                     "id": "O7-1-117", 
                     "title": "117", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -318,7 +343,7 @@
                 {
                     "id": "O7-1-117", 
                     "title": "117", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -328,7 +353,7 @@
                 {
                     "id": "O7-1-117", 
                     "title": "117", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -338,7 +363,7 @@
                 {
                     "id": "O7-1-118", 
                     "title": "118", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -348,7 +373,7 @@
                 {
                     "id": "O7-1-119", 
                     "title": "119", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -358,7 +383,7 @@
                 {
                     "id": "O7-1-120", 
                     "title": "120", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -368,7 +393,7 @@
                 {
                     "id": "O7-1-121", 
                     "title": "121", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -378,7 +403,7 @@
                 {
                     "id": "O7-1-121-A", 
                     "title": "121/A", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -388,7 +413,7 @@
                 {
                     "id": "O7-1-121-B", 
                     "title": "121/B", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -398,7 +423,7 @@
                 {
                     "id": "O7-1-121-C", 
                     "title": "121/C", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -408,7 +433,7 @@
                 {
                     "id": "O7-1-122", 
                     "title": "122", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -418,7 +443,7 @@
                 {
                     "id": "O7-1-122", 
                     "title": "122", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -428,7 +453,7 @@
                 {
                     "id": "O7-1-122", 
                     "title": "122", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -438,7 +463,7 @@
                 {
                     "id": "O7-1-122", 
                     "title": "122", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -448,7 +473,7 @@
                 {
                     "id": "O7-1-123", 
                     "title": "123", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -458,7 +483,7 @@
                 {
                     "id": "O7-1-123", 
                     "title": "123", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -468,7 +493,7 @@
                 {
                     "id": "O7-1-124", 
                     "title": "124", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -478,7 +503,7 @@
                 {
                     "id": "O7-1-124", 
                     "title": "124", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -488,7 +513,7 @@
                 {
                     "id": "O7-1-124", 
                     "title": "124", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -498,7 +523,7 @@
                 {
                     "id": "O7-1-124", 
                     "title": "124", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -508,7 +533,7 @@
                 {
                     "id": "O7-1-124", 
                     "title": "124", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -518,7 +543,7 @@
                 {
                     "id": "O7-1-124", 
                     "title": "124", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -528,7 +553,7 @@
                 {
                     "id": "O7-1-125", 
                     "title": "125", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -538,7 +563,7 @@
                 {
                     "id": "O7-1-125", 
                     "title": "125", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -548,7 +573,7 @@
                 {
                     "id": "O7-1-125", 
                     "title": "125", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -558,7 +583,7 @@
                 {
                     "id": "O7-1-126", 
                     "title": "126", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -568,7 +593,7 @@
                 {
                     "id": "O7-1-126", 
                     "title": "126", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -578,7 +603,7 @@
                 {
                     "id": "O7-1-126", 
                     "title": "126", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -588,7 +613,7 @@
                 {
                     "id": "O7-1-127", 
                     "title": "127", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -598,7 +623,7 @@
                 {
                     "id": "O7-1-127", 
                     "title": "127", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -608,7 +633,7 @@
                 {
                     "id": "O7-1-127", 
                     "title": "127", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -618,7 +643,7 @@
                 {
                     "id": "O7-1-127", 
                     "title": "127", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -628,7 +653,7 @@
                 {
                     "id": "O7-1-128", 
                     "title": "128", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -638,7 +663,7 @@
                 {
                     "id": "O7-1-128", 
                     "title": "128", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -648,7 +673,7 @@
                 {
                     "id": "O7-1-128", 
                     "title": "128", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -658,7 +683,7 @@
                 {
                     "id": "O7-1-128", 
                     "title": "128", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -668,7 +693,7 @@
                 {
                     "id": "O7-1-128", 
                     "title": "128", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -678,7 +703,7 @@
                 {
                     "id": "O7-1-129", 
                     "title": "129", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -688,7 +713,7 @@
                 {
                     "id": "O7-1-129", 
                     "title": "129", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -698,7 +723,7 @@
                 {
                     "id": "O7-1-130", 
                     "title": "130", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -708,7 +733,7 @@
                 {
                     "id": "O7-1-130", 
                     "title": "130", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -718,7 +743,7 @@
                 {
                     "id": "O7-1-131", 
                     "title": "131", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -728,7 +753,7 @@
                 {
                     "id": "O7-1-131", 
                     "title": "131", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -738,7 +763,7 @@
                 {
                     "id": "O7-1-131", 
                     "title": "131", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -748,7 +773,7 @@
                 {
                     "id": "O7-1-131", 
                     "title": "131", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -768,7 +793,7 @@
                 {
                     "id": "O7-1-133", 
                     "title": "133", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -778,7 +803,7 @@
                 {
                     "id": "O7-1-133", 
                     "title": "133", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -788,7 +813,7 @@
                 {
                     "id": "O7-1-133", 
                     "title": "133", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -798,7 +823,7 @@
                 {
                     "id": "O7-1-134", 
                     "title": "134", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -808,7 +833,7 @@
                 {
                     "id": "O7-1-134", 
                     "title": "134", 
-                    "category": "Academics", 
+                    "category": "academics", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -898,7 +923,7 @@
                 {
                     "id": "", 
                     "title": "0", 
-                    "category": "wc", 
+                    "category": "restrooms", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -908,7 +933,7 @@
                 {
                     "id": "", 
                     "title": "0", 
-                    "category": "wc", 
+                    "category": "restrooms", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -948,7 +973,7 @@
                 {
                     "id": "", 
                     "title": "0", 
-                    "category": "wc", 
+                    "category": "restrooms", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -958,7 +983,7 @@
                 {
                     "id": "", 
                     "title": "0", 
-                    "category": "wc", 
+                    "category": "restrooms", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -988,7 +1013,7 @@
                 {
                     "id": "", 
                     "title": "0", 
-                    "category": "wc", 
+                    "category": "restrooms", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -1008,7 +1033,7 @@
                 {
                     "id": "", 
                     "title": "0", 
-                    "category": "wc", 
+                    "category": "restrooms", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -1048,7 +1073,7 @@
                 {
                     "id": "", 
                     "title": "0", 
-                    "category": "wc", 
+                    "category": "restrooms", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -1068,7 +1093,7 @@
                 {
                     "id": "", 
                     "title": "0", 
-                    "category": "wc", 
+                    "category": "restrooms", 
                     "description": "", 
                     "about": "", 
                     "x": "", 
@@ -1096,27 +1121,6 @@
                     "zoom": 2
                 }
             ]
-        }, 
-        {
-            "id": "okt6-02", 
-            "title": "Oktober 6. u. - 2nd floor", 
-            "map": "maps/okt6-02.svg", 
-            "show": "true", 
-            "locations": []
-        }, 
-        {
-            "id": "n11-01", 
-            "title": "Nador u. 11 - 1nd floor", 
-            "map": "maps/n11-01.svg", 
-            "show": "true", 
-            "locations": []
-        }, 
-        {
-            "id": "n11-02", 
-            "title": "Nador u. 11 - 2nd floor", 
-            "map": "maps/n11-02.svg", 
-            "show": "true", 
-            "locations": []
         }
     ]
 }
