@@ -19,7 +19,7 @@
    viewBox="0 0 2000 1600"
    enable-background="new 0 0 2000 1600"
    xml:space="preserve"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="okt6-02.svg"><metadata
      id="metadata1033"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
@@ -33,8 +33,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1440"
-     inkscape:window-height="823"
+     inkscape:window-width="1680"
+     inkscape:window-height="1002"
      id="namedview1029"
      showgrid="false"
      inkscape:zoom="0.519375"
@@ -734,4 +734,14 @@
            id="g969"><polygon
              class="medium"
              points="1597.521,1592.954 1670.312,1542.137 1667.931,1611.098 1595.141,1661.915 "
-             id="polygon971" /></g></g></g></g></svg>
+             id="polygon971" /></g></g></g><g
+       id="landmarks-waypoints"><g
+         id="qr-okt6-42"><path
+           transform="translate(1035.6198,444.88571)"
+           sodipodi:type="arc"
+           id="path3308"
+           sodipodi:cx="1099.3983"
+           sodipodi:cy="538.14679"
+           sodipodi:rx="15.403129"
+           sodipodi:ry="10.589651"
+           d="m 1114.8014,538.14679 a 15.403129,10.589651 0 1 1 -30.8062,0 15.403129,10.589651 0 1 1 30.8062,0 z" /></g></g></g></svg>
