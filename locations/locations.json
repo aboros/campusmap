@@ -52,7 +52,7 @@
             "locations": [
                 {
                     "id": "O7-1-101", 
-                    "title": "101", 
+                    "title": "", 
                     "category": "Classroom", 
                     "description": "", 
                     "about": "", 
@@ -62,7 +62,7 @@
                 }, 
                 {
                     "id": "O7-1-L", 
-                    "title": "Lobby", 
+                    "title": "", 
                     "category": "Lobby", 
                     "description": "", 
                     "about": "", 
@@ -72,7 +72,7 @@
                 }, 
                 {
                     "id": "O7-1-102", 
-                    "title": "102", 
+                    "title": "", 
                     "category": "programs", 
                     "description": "", 
                     "about": "", 
@@ -82,7 +82,7 @@
                 }, 
                 {
                     "id": "O7-1-103", 
-                    "title": "103", 
+                    "title": "", 
                     "category": "programs", 
                     "description": "", 
                     "about": "", 
@@ -92,7 +92,7 @@
                 }, 
                 {
                     "id": "O7-1-104", 
-                    "title": "104", 
+                    "title": "Visiting", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -102,7 +102,7 @@
                 }, 
                 {
                     "id": "O7-1-105", 
-                    "title": "105", 
+                    "title": "", 
                     "category": "programs", 
                     "description": "", 
                     "about": "", 
@@ -112,7 +112,7 @@
                 }, 
                 {
                     "id": "O7-1-106", 
-                    "title": "106", 
+                    "title": "G\u00e1bor Br\u00f3dy", 
                     "category": "research", 
                     "description": "", 
                     "about": "", 
@@ -122,7 +122,7 @@
                 }, 
                 {
                     "id": "O7-1-106", 
-                    "title": "106", 
+                    "title": "\u00c1gota Major", 
                     "category": "research", 
                     "description": "", 
                     "about": "", 
@@ -132,7 +132,7 @@
                 }, 
                 {
                     "id": "O7-1-106", 
-                    "title": "106", 
+                    "title": "Barbara Pomiechowska", 
                     "category": "research", 
                     "description": "", 
                     "about": "", 
@@ -142,7 +142,7 @@
                 }, 
                 {
                     "id": "O7-1-106", 
-                    "title": "106", 
+                    "title": "Tibor Tauzin", 
                     "category": "research", 
                     "description": "", 
                     "about": "", 
@@ -152,7 +152,7 @@
                 }, 
                 {
                     "id": "O7-1-107", 
-                    "title": "107", 
+                    "title": "Nazli Altinok", 
                     "category": "research", 
                     "description": "", 
                     "about": "", 
@@ -162,7 +162,7 @@
                 }, 
                 {
                     "id": "O7-1-107", 
-                    "title": "107", 
+                    "title": "Olivier Mascaro", 
                     "category": "research", 
                     "description": "", 
                     "about": "", 
@@ -172,7 +172,7 @@
                 }, 
                 {
                     "id": "O7-1-107", 
-                    "title": "107", 
+                    "title": "Eszter Szab\u00f3", 
                     "category": "research", 
                     "description": "", 
                     "about": "", 
@@ -182,7 +182,7 @@
                 }, 
                 {
                     "id": "O7-1-108", 
-                    "title": "108", 
+                    "title": "\u00c1gnes Kov\u00e1cs", 
                     "category": "research", 
                     "description": "", 
                     "about": "", 
@@ -192,7 +192,7 @@
                 }, 
                 {
                     "id": "O7-1-109", 
-                    "title": "109", 
+                    "title": "Gergely Csibra", 
                     "category": "research", 
                     "description": "", 
                     "about": "", 
@@ -202,7 +202,7 @@
                 }, 
                 {
                     "id": "O7-1-110", 
-                    "title": "110", 
+                    "title": "Ern\u0151 T\u00e9gl\u00e1s", 
                     "category": "research", 
                     "description": "", 
                     "about": "", 
@@ -212,7 +212,7 @@
                 }, 
                 {
                     "id": "O7-1-111", 
-                    "title": "111", 
+                    "title": "Gy\u00f6rgy Gergely", 
                     "category": "research", 
                     "description": "", 
                     "about": "", 
@@ -222,7 +222,7 @@
                 }, 
                 {
                     "id": "O7-1-112", 
-                    "title": "112", 
+                    "title": "Csaba Pl\u00e9h", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -232,7 +232,7 @@
                 }, 
                 {
                     "id": "O7-1-112", 
-                    "title": "112", 
+                    "title": "Kir\u00e1ly Ildik\u00f3", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -242,7 +242,7 @@
                 }, 
                 {
                     "id": "O7-1-112", 
-                    "title": "112", 
+                    "title": "Joseph Call", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -252,7 +252,7 @@
                 }, 
                 {
                     "id": "O7-1-112", 
-                    "title": "112", 
+                    "title": "Pierre Jacob", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -262,7 +262,7 @@
                 }, 
                 {
                     "id": "O7-1-112", 
-                    "title": "112", 
+                    "title": "Dan Sperber", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -272,7 +272,7 @@
                 }, 
                 {
                     "id": "O7-1-113", 
-                    "title": "113", 
+                    "title": "G\u00fcnther Knoblich", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -282,7 +282,7 @@
                 }, 
                 {
                     "id": "O7-1-114", 
-                    "title": "114", 
+                    "title": "Natalie Sebanz", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -292,7 +292,7 @@
                 }, 
                 {
                     "id": "O7-1-115", 
-                    "title": "115", 
+                    "title": "Christhophe Heintz", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -302,7 +302,7 @@
                 }, 
                 {
                     "id": "O7-1-116", 
-                    "title": "116", 
+                    "title": "Cordula Vesper", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -312,7 +312,7 @@
                 }, 
                 {
                     "id": "O7-1-116", 
-                    "title": "116", 
+                    "title": "Veronica Ramenzoni", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -322,7 +322,7 @@
                 }, 
                 {
                     "id": "O7-1-116", 
-                    "title": "116", 
+                    "title": "Tiffany Moriseau", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -332,7 +332,7 @@
                 }, 
                 {
                     "id": "O7-1-117", 
-                    "title": "117", 
+                    "title": "John Michael", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -342,7 +342,7 @@
                 }, 
                 {
                     "id": "O7-1-117", 
-                    "title": "117", 
+                    "title": "Sophie Milword", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -352,7 +352,7 @@
                 }, 
                 {
                     "id": "O7-1-117", 
-                    "title": "117", 
+                    "title": "Arianna Curioni", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -362,7 +362,7 @@
                 }, 
                 {
                     "id": "O7-1-118", 
-                    "title": "118", 
+                    "title": "J\u00f3zsef Fischer", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -372,7 +372,7 @@
                 }, 
                 {
                     "id": "O7-1-119", 
-                    "title": "119", 
+                    "title": "M\u00e1t\u00e9 Lengyel", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -382,7 +382,7 @@
                 }, 
                 {
                     "id": "O7-1-120", 
-                    "title": "120", 
+                    "title": "Visiting", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -392,7 +392,7 @@
                 }, 
                 {
                     "id": "O7-1-121", 
-                    "title": "121", 
+                    "title": "Vision Lab entrance way", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -402,7 +402,7 @@
                 }, 
                 {
                     "id": "O7-1-121-A", 
-                    "title": "121/A", 
+                    "title": "Vision Lab", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -412,7 +412,7 @@
                 }, 
                 {
                     "id": "O7-1-121-B", 
-                    "title": "121/B", 
+                    "title": "Vision Lab", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -422,7 +422,7 @@
                 }, 
                 {
                     "id": "O7-1-121-C", 
-                    "title": "121/C", 
+                    "title": "Vision Lab", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -432,7 +432,7 @@
                 }, 
                 {
                     "id": "O7-1-122", 
-                    "title": "122", 
+                    "title": "Jellinek S\u00e1ra", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -442,7 +442,7 @@
                 }, 
                 {
                     "id": "O7-1-122", 
-                    "title": "122", 
+                    "title": "G\u00e1bor Lengyel", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -452,7 +452,7 @@
                 }, 
                 {
                     "id": "O7-1-122", 
-                    "title": "122", 
+                    "title": "Oana Stanciu", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -462,7 +462,7 @@
                 }, 
                 {
                     "id": "O7-1-122", 
-                    "title": "122", 
+                    "title": "J\u00f3zsef Arat\u00f3", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -472,7 +472,7 @@
                 }, 
                 {
                     "id": "O7-1-123", 
-                    "title": "123", 
+                    "title": "\u00c1d\u00e1m Koblinger", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -482,7 +482,7 @@
                 }, 
                 {
                     "id": "O7-1-123", 
-                    "title": "123", 
+                    "title": "M\u00e1rton Nagy", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -492,7 +492,7 @@
                 }, 
                 {
                     "id": "O7-1-124", 
-                    "title": "124", 
+                    "title": "Helena Milton", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -502,7 +502,7 @@
                 }, 
                 {
                     "id": "O7-1-124", 
-                    "title": "124", 
+                    "title": "Georgina T\u00f6r\u00f6k", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -512,7 +512,7 @@
                 }, 
                 {
                     "id": "O7-1-124", 
-                    "title": "124", 
+                    "title": "Ottavio Matos", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -522,7 +522,7 @@
                 }, 
                 {
                     "id": "O7-1-124", 
-                    "title": "124", 
+                    "title": "Simily Sabu", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -532,7 +532,7 @@
                 }, 
                 {
                     "id": "O7-1-124", 
-                    "title": "124", 
+                    "title": "Francesca Bonalumi", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -542,7 +542,7 @@
                 }, 
                 {
                     "id": "O7-1-124", 
-                    "title": "124", 
+                    "title": "Paula Fischer", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -552,7 +552,7 @@
                 }, 
                 {
                     "id": "O7-1-125", 
-                    "title": "125", 
+                    "title": "Mia Karabegovic", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -562,7 +562,7 @@
                 }, 
                 {
                     "id": "O7-1-125", 
-                    "title": "125", 
+                    "title": "Martin Freundlieb", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -572,7 +572,7 @@
                 }, 
                 {
                     "id": "O7-1-125", 
-                    "title": "125", 
+                    "title": "Thomas Wolf", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -582,7 +582,7 @@
                 }, 
                 {
                     "id": "O7-1-126", 
-                    "title": "126", 
+                    "title": "Laura Schmitz", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -592,7 +592,7 @@
                 }, 
                 {
                     "id": "O7-1-126", 
-                    "title": "126", 
+                    "title": "Luke Mcellin", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -602,7 +602,7 @@
                 }, 
                 {
                     "id": "O7-1-126", 
-                    "title": "126", 
+                    "title": "Matheus Wozniak", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -612,7 +612,7 @@
                 }, 
                 {
                     "id": "O7-1-127", 
-                    "title": "127", 
+                    "title": "Pavel Voinov", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -622,7 +622,7 @@
                 }, 
                 {
                     "id": "O7-1-127", 
-                    "title": "127", 
+                    "title": "Andr\u00e1s Moln\u00e1r", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -632,7 +632,7 @@
                 }, 
                 {
                     "id": "O7-1-127", 
-                    "title": "127", 
+                    "title": "\u00c1d\u00e1m Boncz", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -642,7 +642,7 @@
                 }, 
                 {
                     "id": "O7-1-127", 
-                    "title": "127", 
+                    "title": "Ina Bauer", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -652,7 +652,7 @@
                 }, 
                 {
                     "id": "O7-1-128", 
-                    "title": "128", 
+                    "title": "Frances Buttelmann", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -662,7 +662,7 @@
                 }, 
                 {
                     "id": "O7-1-128", 
-                    "title": "128", 
+                    "title": "Fruzsina Elekes", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -672,7 +672,7 @@
                 }, 
                 {
                     "id": "O7-1-128", 
-                    "title": "128", 
+                    "title": "Dora Kampis", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -682,7 +682,7 @@
                 }, 
                 {
                     "id": "O7-1-128", 
-                    "title": "128", 
+                    "title": "Johannes Mahr", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -692,7 +692,7 @@
                 }, 
                 {
                     "id": "O7-1-128", 
-                    "title": "128", 
+                    "title": "Rubeena Shamsudheen", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -702,7 +702,7 @@
                 }, 
                 {
                     "id": "O7-1-129", 
-                    "title": "129", 
+                    "title": "Denis Tatone", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -712,7 +712,7 @@
                 }, 
                 {
                     "id": "O7-1-129", 
-                    "title": "129", 
+                    "title": "Micolaj Herrnik", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -722,7 +722,7 @@
                 }, 
                 {
                     "id": "O7-1-130", 
-                    "title": "130", 
+                    "title": "\u00c1gnes Volein", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -732,7 +732,7 @@
                 }, 
                 {
                     "id": "O7-1-130", 
-                    "title": "130", 
+                    "title": "Vikt\u00f3ria Csink", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -742,7 +742,7 @@
                 }, 
                 {
                     "id": "O7-1-131", 
-                    "title": "131", 
+                    "title": "D\u00f3ra Fogd", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -752,7 +752,7 @@
                 }, 
                 {
                     "id": "O7-1-131", 
-                    "title": "131", 
+                    "title": "Liza Vorobyova", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -762,7 +762,7 @@
                 }, 
                 {
                     "id": "O7-1-131", 
-                    "title": "131", 
+                    "title": "Jun Yin", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -772,7 +772,7 @@
                 }, 
                 {
                     "id": "O7-1-131", 
-                    "title": "131", 
+                    "title": "Jesus Antonio Bas Villalba", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -782,7 +782,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "132", 
+                    "title": "", 
                     "category": "Storage", 
                     "description": "", 
                     "about": "", 
@@ -792,7 +792,7 @@
                 }, 
                 {
                     "id": "O7-1-133", 
-                    "title": "133", 
+                    "title": "Jenei Andrea", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -802,7 +802,7 @@
                 }, 
                 {
                     "id": "O7-1-133", 
-                    "title": "133", 
+                    "title": "Schr\u00f6ck Andrea", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -812,7 +812,7 @@
                 }, 
                 {
                     "id": "O7-1-133", 
-                    "title": "133", 
+                    "title": "Finta Gy\u00f6rgyn\u00e9", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -822,7 +822,7 @@
                 }, 
                 {
                     "id": "O7-1-134", 
-                    "title": "134", 
+                    "title": "Herendy Veronika", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -832,7 +832,7 @@
                 }, 
                 {
                     "id": "O7-1-134", 
-                    "title": "134", 
+                    "title": "Annam\u00e1ria T\u00f3th", 
                     "category": "academics", 
                     "description": "", 
                     "about": "", 
@@ -842,7 +842,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "corridor", 
                     "description": "", 
                     "about": "", 
@@ -852,7 +852,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "storage", 
                     "description": "", 
                     "about": "", 
@@ -862,7 +862,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "Lobby", 
                     "description": "", 
                     "about": "", 
@@ -872,7 +872,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "corridor", 
                     "description": "", 
                     "about": "", 
@@ -882,7 +882,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "communal space", 
                     "description": "", 
                     "about": "", 
@@ -892,7 +892,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "corridor", 
                     "description": "", 
                     "about": "", 
@@ -902,7 +902,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "corridor", 
                     "description": "", 
                     "about": "", 
@@ -912,7 +912,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "corridor", 
                     "description": "", 
                     "about": "", 
@@ -922,7 +922,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "restrooms", 
                     "description": "", 
                     "about": "", 
@@ -932,7 +932,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "restrooms", 
                     "description": "", 
                     "about": "", 
@@ -942,7 +942,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "server room", 
                     "description": "", 
                     "about": "", 
@@ -952,7 +952,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "storage", 
                     "description": "", 
                     "about": "", 
@@ -962,7 +962,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "corridor", 
                     "description": "", 
                     "about": "", 
@@ -972,7 +972,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "restrooms", 
                     "description": "", 
                     "about": "", 
@@ -982,7 +982,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "restrooms", 
                     "description": "", 
                     "about": "", 
@@ -992,7 +992,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "corridor", 
                     "description": "", 
                     "about": "", 
@@ -1002,7 +1002,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "entrance way", 
                     "description": "", 
                     "about": "", 
@@ -1012,7 +1012,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "restrooms", 
                     "description": "", 
                     "about": "", 
@@ -1022,7 +1022,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "entrance way", 
                     "description": "", 
                     "about": "", 
@@ -1032,7 +1032,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "restrooms", 
                     "description": "", 
                     "about": "", 
@@ -1042,7 +1042,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "server room", 
                     "description": "", 
                     "about": "", 
@@ -1052,7 +1052,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "corridor", 
                     "description": "", 
                     "about": "", 
@@ -1062,7 +1062,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "corridor", 
                     "description": "", 
                     "about": "", 
@@ -1072,7 +1072,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "restrooms", 
                     "description": "", 
                     "about": "", 
@@ -1082,7 +1082,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "kitchen", 
                     "description": "", 
                     "about": "", 
@@ -1092,7 +1092,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "restrooms", 
                     "description": "", 
                     "about": "", 
@@ -1102,7 +1102,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "corridor", 
                     "description": "", 
                     "about": "", 
@@ -1112,7 +1112,7 @@
                 }, 
                 {
                     "id": "", 
-                    "title": "0", 
+                    "title": "", 
                     "category": "corridor", 
                     "description": "", 
                     "about": "", 
