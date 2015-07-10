@@ -1,90 +1,1122 @@
 {
-  "mapwidth": "2000",
-  "mapheight": "1600",
-  "categories": [
-    {
-      "id": "academic",
-      "title": "Academic offices",
-      "show": "false"
-    },
-    {
-      "id": "administrative",
-      "title": "Administrative units",
-      "show": "false"
-    },
-    {
-      "id": "service",
-      "title": "Services",
-      "show": "false"
-    }
-  ],
-  "levels": [
-    {
-      "id": "okt6-01",
-      "title": "Oktober 6. u. - 1st floor",
-      "map": "maps/okt6-01.svg", 
-      "show": "true",
-      "locations": [
+    "mapwidth": "2000", 
+    "mapheight": "1600", 
+    "categories": [
         {
-          "id": "room-42",
-          "title": "Some office",
-          "description": "Landmarks can have description.",
-          "about": "Different about text in sidebar.",
-          "category": "academic",
-          "x": "0.8250",
-          "y": "0.3640",
-          "zoom": "2"
-        },
+            "id": "academic", 
+            "title": "Academic offices", 
+            "show": "false"
+        }, 
         {
-          "id": "room-101",
-          "title": "101",
-          "description": "Not the room you are looking for.",
-          "about": "You never forget this visit.",
-          "category": "service",
-          "x": "0.2660",
-          "y": "0.5540",
-          "zoom": "2"
+            "id": "administrative", 
+            "title": "Administrative units", 
+            "show": "false"
+        }, 
+        {
+            "id": "service", 
+            "title": "Services", 
+            "show": "false"
         }
-      ]
-    },
-    {
-      "id": "okt6-02",
-      "title": "Oktober 6. u. - 2nd floor",
-      "map": "maps/okt6-02.svg", 
-      "show": "true",
-      "locations": [
+    ], 
+    "levels": [
         {
-          "id": "room-242",
-          "title": "Lightsabre Training Center",
-          "description": "<img src='images/thumbs/yoda.jpg' />Center for researching and developing state of the art lightsabre duel capabilities and techniques.",
-          "about": "<img src='images/thumbs/sidebar/lightsabre-duell.jpg' />Home of Master <strong>Windu,</strong> <strong>Yoda,</strong> <strong>Kenobi.</strong> Train here hard and often and you will earn the ridiculous duel skills of the most skillfull Masters of all time.",
-          "category": "academic",
-          "x": "0.8250",
-          "y": "0.3640",
-          "zoom": "2"
-        },
+            "id": "okt6-01", 
+            "title": "Oktober 6. u. - 1st floor", 
+            "map": "maps/okt6-01.svg", 
+            "show": "true", 
+            "locations": [
+                {
+                    "id": "O7-1-101", 
+                    "title": "101", 
+                    "category": "Classroom", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-L", 
+                    "title": "Lobby", 
+                    "category": "Lobby", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-102", 
+                    "title": "102", 
+                    "category": "Classroom", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-103", 
+                    "title": "103", 
+                    "category": "Seminar room", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-104", 
+                    "title": "104", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-105", 
+                    "title": "105", 
+                    "category": "Library", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-106", 
+                    "title": "106", 
+                    "category": "Research & Policy", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-106", 
+                    "title": "106", 
+                    "category": "Research & Policy", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-106", 
+                    "title": "106", 
+                    "category": "Research & Policy", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-106", 
+                    "title": "106", 
+                    "category": "Research & Policy", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-107", 
+                    "title": "107", 
+                    "category": "Research & Policy", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-107", 
+                    "title": "107", 
+                    "category": "Research & Policy", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-107", 
+                    "title": "107", 
+                    "category": "Research & Policy", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-108", 
+                    "title": "108", 
+                    "category": "Research & Policy", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-109", 
+                    "title": "109", 
+                    "category": "Research & Policy", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-110", 
+                    "title": "110", 
+                    "category": "Research & Policy", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-111", 
+                    "title": "111", 
+                    "category": "Research & Policy", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-112", 
+                    "title": "112", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-112", 
+                    "title": "112", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-112", 
+                    "title": "112", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-112", 
+                    "title": "112", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-112", 
+                    "title": "112", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-113", 
+                    "title": "113", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-114", 
+                    "title": "114", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-115", 
+                    "title": "115", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-116", 
+                    "title": "116", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-116", 
+                    "title": "116", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-116", 
+                    "title": "116", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-117", 
+                    "title": "117", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-117", 
+                    "title": "117", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-117", 
+                    "title": "117", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-118", 
+                    "title": "118", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-119", 
+                    "title": "119", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-120", 
+                    "title": "120", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-121", 
+                    "title": "121", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-121-A", 
+                    "title": "121/A", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-121-B", 
+                    "title": "121/B", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-121-C", 
+                    "title": "121/C", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-122", 
+                    "title": "122", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-122", 
+                    "title": "122", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-122", 
+                    "title": "122", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-122", 
+                    "title": "122", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-123", 
+                    "title": "123", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-123", 
+                    "title": "123", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-124", 
+                    "title": "124", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-124", 
+                    "title": "124", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-124", 
+                    "title": "124", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-124", 
+                    "title": "124", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-124", 
+                    "title": "124", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-124", 
+                    "title": "124", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-125", 
+                    "title": "125", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-125", 
+                    "title": "125", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-125", 
+                    "title": "125", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-126", 
+                    "title": "126", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-126", 
+                    "title": "126", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-126", 
+                    "title": "126", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-127", 
+                    "title": "127", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-127", 
+                    "title": "127", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-127", 
+                    "title": "127", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-127", 
+                    "title": "127", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-128", 
+                    "title": "128", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-128", 
+                    "title": "128", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-128", 
+                    "title": "128", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-128", 
+                    "title": "128", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-128", 
+                    "title": "128", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-129", 
+                    "title": "129", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-129", 
+                    "title": "129", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-130", 
+                    "title": "130", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-130", 
+                    "title": "130", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-131", 
+                    "title": "131", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-131", 
+                    "title": "131", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-131", 
+                    "title": "131", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-131", 
+                    "title": "131", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "132", 
+                    "category": "Storage", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-133", 
+                    "title": "133", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-133", 
+                    "title": "133", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-133", 
+                    "title": "133", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-134", 
+                    "title": "134", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "O7-1-134", 
+                    "title": "134", 
+                    "category": "Academics", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "corridor", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "storage", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "Lobby", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "corridor", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "communal space", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "corridor", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "corridor", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "corridor", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "wc", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "wc", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "server room", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "storage", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "corridor", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "wc", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "wc", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "corridor", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "entrance way", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "wc", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "entrance way", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "wc", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "server room", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "corridor", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "corridor", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "wc", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "kitchen", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "wc", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "corridor", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }, 
+                {
+                    "id": "", 
+                    "title": "0", 
+                    "category": "corridor", 
+                    "description": "", 
+                    "about": "", 
+                    "x": "", 
+                    "y": "", 
+                    "zoom": 2
+                }
+            ]
+        }, 
         {
-          "id": "room-201",
-          "title": "Another room 101 on second floor.",
-          "description": "Not the room you are looking for.",
-          "about": "You never forget this visit.",
-          "category": "service",
-          "x": "0.2660",
-          "y": "0.5540",
-          "zoom": "2"
-        },
+            "id": "okt6-02", 
+            "title": "Oktober 6. u. - 2nd floor", 
+            "map": "maps/okt6-02.svg", 
+            "show": "true", 
+            "locations": []
+        }, 
         {
-          "id": "bfo",
-          "title": "Budget and Finance Office",
-          "description": "Meaningful description for this location goes here. It can be slightly longer. Locations can also have link and it is shown as a 'More' button. Some basic <strong>HTML</strong> is also allowed here.",
-          "link": "http://bfo.ceu.edu",
-          "about": "Short description appears in sidebar and is also searchable.",
-          "category": "administrative",
-          "x": "0.4030",
-          "y": "0.3225",
-          "zoom": "2"
+            "id": "n11-01", 
+            "title": "Nador u. 11 - 1nd floor", 
+            "map": "maps/n11-01.svg", 
+            "show": "true", 
+            "locations": []
+        }, 
+        {
+            "id": "n11-02", 
+            "title": "Nador u. 11 - 2nd floor", 
+            "map": "maps/n11-02.svg", 
+            "show": "true", 
+            "locations": []
         }
-      ]
-    }
-  ]
+    ]
 }
